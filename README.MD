@@ -27,8 +27,8 @@ ReactNest is designed to be a **knowledge base** for everything I learn about Re
 ✔️ Performance Optimization (Memoization, Lazy Loading)  
 
 ### 🏗 **Mini Projects & Practice Apps**  
-- [ ] **Random Password Generator** – Simple password generation app using hooks
-- [ ] **Currency Convetor** – Simple state management using Props with hooks and Api 
+- [x] **Random Password Generator** – Simple password generation app using hooks
+- [x] **Currency Convetor** – Simple state management using Props with hooks and Api 
 
  
 
