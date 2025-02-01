@@ -29,6 +29,7 @@ ReactNest is designed to be a **knowledge base** for everything I learn about Re
 ### 🏗 **Mini Projects & Practice Apps**  
 - [x] **Random Password Generator** – Simple password generation app using hooks
 - [x] **Currency Convetor** – Simple state management using Props with hooks and Api 
+- [x] **ThemeSwitcher** – Theme switch app with contextProvider  
 
  
 
